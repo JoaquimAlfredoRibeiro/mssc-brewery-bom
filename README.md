@@ -1,1 +1,3 @@
-# mssc-brewery-bom
+#MSSC Beer Microservices
+
+Maven BOM
